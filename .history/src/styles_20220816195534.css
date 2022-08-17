@@ -1,0 +1,10 @@
+.border {
+  background: rgb(113, 231, 255);
+}
+.calculator {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  min-width: 100vh;
+  grid-template-columns: ;
+}
